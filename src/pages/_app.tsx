@@ -13,11 +13,11 @@ export default function App({ Component, pageProps }: AppProps) {
         title={"Neyo"}
         description={"Neyo's personal bio"}
         canonical={`https://aiden.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`}
-        themeColor={"#2563eb"}
+        themeColor={"#FFFFFF"}
         openGraph={{
           url: `https://aiden.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`,
-          title: "Aiden.gg",
-          description: "Aiden's personal site",
+          title: "Neyo",
+          description: "Neyo's personal bio",
           images: [
             {
               url: "https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/krd90h9v.png",
