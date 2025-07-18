@@ -12,10 +12,10 @@ export default function App({ Component, pageProps }: AppProps) {
       <NextSeo
         title={"Neyo"}
         description={"Neyo's personal bio"}
-        canonical={`https://aiden.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`}
+        canonical={`https://neyowtf.site${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`}
         themeColor={"#FFFFFF"}
         openGraph={{
-          url: `https://aiden.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`,
+          url: `https://neyowtf.site${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`,
           title: "Neyo",
           description: "Neyo's personal bio",
           images: [
