@@ -18,7 +18,7 @@ export default function Hero({ inView, descRef }: { inView: boolean, descRef: an
           <h1 className="font-bold lg:text-7xl md:text-6xl sm:text-5xl text-4xl">
             Hey, I&apos;m Dominic<span className="sm:hidden inline-block animate-wave ml-2">👋</span><span className="sm:inline-block hidden animate-wave ml-2">👋</span>
           </h1>
-          <p className="font-semibold lg:text-3xl md:text-2xl sm:text-xl text-lg min-h-[2.5em] sm:min-h-0">
+          <p className="font-semibold lg:text-3xl md:text-2xl sm:text-xl text-lg min-h-[3.5em] sm:min-h-0">
             {inView &&
               <Typewriter
                 options={{
