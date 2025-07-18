@@ -9,6 +9,6 @@ I use this site to show off what I am currently working on, and some of my inter
 4. run `npm i`
 5. run `npm run build && npm run start`
 
-*or just use vercel*
+*or just use vercel, netlify works fine too fyi*
 
 Presence system requires https://github.com/aidendotgg/aiden.gg_presence
