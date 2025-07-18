@@ -26,41 +26,22 @@ export default function Projects() {
             </div>
           }
           <ProjectCard
-            url="https://lilith.aiden.gg"
-            title="Lilith Website"
+            url="this does nothing"
+            title="Failed Stages Of The Clown Wars"
             fullDescription={[
-              "Lilith is a proxy mod for Hypixel that lets you to see the stats of other players in your game, auto dodge games that have cheaters, lookup stats for any player in game, and more.",
-              "Unfortunately right as the new website was about to launch the creator of Lilith had to discontinue the project due to a change that Hypixel made that not only killed off Lilith but multiple other projects like it.",
+              "In the final stages and years leading up to what Ocean is today, there were many brands that came before it—Pyra, Vision.GG, Vatality, and so many more.",
+              "During those long nights fighting to build a successful brand, I learned a tough truth: no matter how hard you try, you’ll never make everyone happy.",
+              "That realization led me to create my final brand—Ocean.",
+              "These attempts go years back, but despite everything, I’m proud to be where I am now."
             ]}
-            cardImage="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/k2irxpbf.png"
-            cardDescription="Lilith is a proxy mod for Hypixel that lets you to see the stats of other players in your game, auto dodge games that have cheaters, lookup stats for any player in game, and more."
+            cardImage="https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/7mqjdqjt.webp"
+            cardDescription="In the final stages and years leading up to what Ocean is today, there were many brands that came before it Pyra, Vision.GG, Vatality, and so many more. During those long nights fighting to build a successful brand, I learned a tough truth: no matter how hard you try, you’ll never make everyone happy. That realization led me to create my final brand Ocean. These attempts go years back, but despite everything, I’m proud to be where I am now."
             media={[
-              "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/7l2m7dcd.mp4",
-              "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/oxj9zman.png"
+              "https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/d0vnyxbl.png",
             ]}
-            myRole="Frontend Developer/Designer"
-            timeline="August 2024 - August 2024"
+            myRole="Creator"
+            timeline="Unknown - Present"
             delay={0.1}
-            gradient="bg-gradient-to-tl"
-          />
-          <ProjectCard
-            url="https://tnttag.info"
-            title="TNTTag Info"
-            fullDescription={[
-              "TNTTag info is a stats website for the Hypixel game 'TNT Tag'. You can view player stats or view the top 100 leaderboard. There is also a discord bot you can invite to your server.",
-              "This website was made because at the time there wasn't a good place to view every single TNT Tag stat. TNT Tag is one of my favorite games on Hypixel and I wanted to make a website that would help the community.",
-              "There is also a proxy mod to go along with it that uses the same API as the website. The mod has features like player list stats, audible count down, powerup notifications, and more.",
-            ]}
-            cardImage="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/8e6lpnrw.png"
-            cardDescription="TNTTag info is a stats website for the Hypixel game 'TNT Tag'. You can view player stats or view the top 100 leaderboard. There is also a discord bot you can invite to your server."
-            media={[
-              "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/8e6lpnrw.png",
-              "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/zptwyhjn.png",
-              "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/77qjr509.png"
-            ]}
-            myRole="Founder, Head Developer, Designer"
-            timeline="March 2023 - Present"
-            delay={0.2}
             gradient="bg-gradient-to-tl"
           />
         </ul>

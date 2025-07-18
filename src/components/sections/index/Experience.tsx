@@ -19,70 +19,40 @@ export default function Experience() {
                 </motion.h1>
                 <ul className={`flex flex-col pt-6 pb-1 gap-4 overflow-hidden`}>
                     <ExperienceCard
-                        url="https://e-z.gg"
-                        title="E-Z Services"
+                        url="https://oceancheats.net/home"
+                        title="Ocean Cheats"
                         fullDescription={[
-                            "While running E-Z I have learned about the entire process of developing a website and pushing it securely into production. E-Z as a whole has gained 19,000+ users over the years and has been a great learning experience for me. I am responsible for all of the frontend development and a good chunk of the backend development.",
-                            "E-Z's most notable projects are E-Z Host and E-Z Bio. E-Z Host is a very customizable file-sharing platform that integrates into uploading tools to upload and share screenshots, video clips, and other files. E-Z Bio is a customizable bio link platform that's easy to set up and and allows users to have a full page with all of their socials in minutes.",
-                            "Our team is made up of me, my friend tsoxas, and my friend Nathan. As stated before, I am responsible for all of the frontend and a good portion of the backend, tsoxas steps in when needed for backend work, and Nathan organizes code and pitches in here and there.",
-                            "I started E-Z before I even knew how to code by using an open-source project as a base. Tsoxas joined early on and helped carry the site through its first stages, developing a custom backend and adding new features. Eventually I leared how to code and now here we are today."
+                            "While Ocean Cheats is a new project, it’s something I’ve really been trying to build after going through brand after brand. Ocean finally feels like a stable, working platform.",
+                            "In under two months, we’ve gained over 700 members, and I’ve had the chance to work with some amazing people while building it up.",
+                            "Ocean was my last attempt to stay involved in the cheat community, and for me—it’s actually working. It’s starting to feel like a real home.",
+                            "I’ve learned so many new things from this community, and I genuinely couldn’t be more grateful."
                         ]}
-                        cardImage="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/giqhlh0p.png"
-                        cardDescription="While running E-Z I have learned about the entire process of developing a website and pushing it securely into production. E-Z as a whole has gained 19,000+ users over the years and has been a great learning experience for me. I am responsible for all of the frontend development and a good chunk of the backend development."
+                        cardImage="https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/htkysgjx.png"
+                        cardDescription="While Ocean Cheats is a new project, it’s something I’ve really been trying to build after going through brand after brand. Ocean finally feels like a stable, working platform. In under two months, we’ve gained over 700 members, and I’ve had the chance to work with some amazing people while building it up. Ocean was my last attempt to stay involved in the cheat community, and for me—it’s actually working. I’ve learned so many new things from this community, and I genuinely couldn’t be more grateful."
                         media={[
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/7zdwvchf.mp4",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/04s2qt5p.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/7rivygg2.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/lejpmjvp.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/4qh6eag6.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/x8capy8n.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/slub8gdh.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/hf7i7o31.mp4",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/yrk5zedf.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/tb8jdveo.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/2v0ymhiz.mp4",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/3xfw3xts.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/k36z8iwq.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/su4s5oxd.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/dsolrzxq.png",
+                            "https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/opa4406u.gif",
                         ]}
                         myRole="Founder/Head Developer"
-                        timeline="March 2021 - Present"
+                        timeline="January 2025 - Present"
                         delay={0.1}
                         gradient="bg-gradient-to-br"
                     />
                     <ExperienceCard
-                        url="https://out.so"
-                        title="Out.so"
+                        url="https://fallen.reselling.pro/"
+                        title="Fallen Panel"
                         fullDescription={[
-                            "While working on Out I've collaborated closely with a designer to create intuitive and visually appealing user interfaces, ensuring seamless user experiences. I've also aided in the process of pushing the site into production securely and efficiently by advising on best practices and implementing security measures.",
-                            "Out is a service that allows content creators to easily upload content between all of their platforms. Creators can upload their video to Out and schedule it to be posted on all of their social media platforms at once. Out also allows creators to import videos from existing platforms and schedule them to be posted on other platforms.",
-                            "To list things that I've developed on Out, I've done the home page, dark mode across the entire site, the bio card pages, the layout of the dashboard, and part of mobile responsiveness on the dashboard."
+                            "After facing major setbacks, I’ve now partnered with some amazing people to create our own authentication system and API, as well as a premade setup for piggybacking and reselling.",
+                            "Fallen was created with security and stability in mind, since other providers failed to hold up their end of the deal.",
+                            "While working on Fallen, we’ve implemented changes that actively improve and evolve the system as it runs.",
+                            "We just launched this month and already have 10+ active sellers using it with no issues.",
+                            "While I’ve developed many things, this is simply a product I own I don’t want to take credit for work that isn’t mine."
                         ]}
-                        cardImage="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/xt9q5o0l.png"
-                        cardDescription="While working on Out I've collaborated closely with a designer to create intuitive and visually appealing user interfaces, ensuring seamless user experiences. I've also aided in the process of pushing the site into production securely and efficiently by advising on best practices and implementing security measures."
-                        media={["https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/5mwfskp1.mp4"]}
-                        myRole="Full-stack Developer"
-                        timeline="September 2024 - Present"
+                        cardImage="https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/kw3pyy5w.png"
+                        cardDescription="After facing major setbacks, I’ve now partnered with some amazing people to create our own authentication system and API, as well as a premade setup for piggybacking and reselling. Fallen was created with security and stability in mind, since other providers failed to hold up their end of the deal. While working on Fallen, we’ve implemented changes that actively improve and evolve the system as it runs. We just launched this month and already have 10+ active sellers using it with no issues. While I’ve developed many things, this is simply a product I own—I don’t want to take credit for work that isn’t mine."
+                        media={["https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/57u7vg59.png"]}
+                        myRole="Founder"
+                        timeline="July 2024 - Present"
                         delay={0.2}
-                        gradient="bg-gradient-to-br"
-                    />
-                    <ExperienceCard
-                        url="https://ranked.tagfeuds.com"
-                        title="Tag Feuds"
-                        fullDescription={[
-                            "While working at Tag Feuds I've made different discord bots and websites to assist in hosting TNT Tag events to hundreds of people. The biggest project was my ranked bot that allows players to 1v1 or 2v2 in ranked matches and climb the ELO ladder. Queueing, matchmaking, and elo calculations are all done by the bot.",
-                            "Tag Feuds is a Hypixel TNT Tag community that hosts events and tournaments for players to compete in. The community has grown to over 1,000 members and has a very active player base. There is a mini event almost every day and special events with prize pools a few times a year.",
-                        ]}
-                        cardImage="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/yj2brdsg.png"
-                        cardDescription="While working on Tag Feuds I've made different discord bots and websites to assist in hosting TNT Tag events to hundreds of people. The biggest project was my ranked bot that allows players to 1v1 or 2v2 in ranked matches and climb the ELO ladder. Queueing, matchmaking, and elo calculations are all done by the bot."
-                        media={[
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/txovw4kp.png",
-                            "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/qozh8etz.png"
-                        ]}
-                        myRole="Full-stack Developer"
-                        timeline="November 2024 - Present"
-                        delay={0.3}
                         gradient="bg-gradient-to-br"
                     />
                 </ul>

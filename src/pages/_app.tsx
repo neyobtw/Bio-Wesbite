@@ -2,6 +2,7 @@ import "@/styles/globals.css";
 import { NextSeo } from "next-seo";
 import type { AppProps } from "next/app";
 import { useRouter } from "next/router";
+import PageViews from "@/components/PageViews";
 
 export default function App({ Component, pageProps }: AppProps) {
   let router = useRouter();
@@ -9,8 +10,8 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <NextSeo
-        title={"Aiden.gg"}
-        description={"Aiden's personal site"}
+        title={"Neyo"}
+        description={"Neyo's personal bio"}
         canonical={`https://aiden.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`}
         themeColor={"#2563eb"}
         openGraph={{
@@ -19,13 +20,14 @@ export default function App({ Component, pageProps }: AppProps) {
           description: "Aiden's personal site",
           images: [
             {
-              url: "https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/lbo1x6wn.png",
-              alt: "Oliver",
+              url: "https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/krd90h9v.png",
+              alt: "Ocean Banner",
             },
           ],
         }}
       />
       <Component {...pageProps} />
+      <PageViews />
     </>
   );
 }
