@@ -9,7 +9,7 @@ export default function Footer() {
                 Redone by Neyo — Made with Next.js, TailwindCSS, React, and hella ❤ by me.
 </p>
                 <p className="text-center font-medium brightness-75 text-base">
-                    Last updated: July 18th, 2025
+                    Last updated: August 6th, 2025
                 </p>
             </footer>
         </>

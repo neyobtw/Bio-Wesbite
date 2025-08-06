@@ -34,10 +34,10 @@ export default function Projects() {
               "That realization led me to create my final brand—Ocean.",
               "These attempts go years back, but despite everything, I’m proud to be where I am now."
             ]}
-            cardImage="https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/7mqjdqjt.webp"
+            cardImage="https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/42o3xen4.webp"
             cardDescription="In the final stages and years leading up to what Ocean is today, there were many brands that came before it Pyra, Vision.GG, Vatality, and so many more. During those long nights fighting to build a successful brand, I learned a tough truth: no matter how hard you try, you’ll never make everyone happy. That realization led me to create my final brand Ocean. These attempts go years back, but despite everything, I’m proud to be where I am now."
             media={[
-              "https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/d0vnyxbl.png",
+              "https://r2.e-z.host/223a47e8-a56e-4a6d-a5a7-09d7420d7ac2/42o3xen4.webp",
             ]}
             myRole="Creator"
             timeline="Unknown - Present"
